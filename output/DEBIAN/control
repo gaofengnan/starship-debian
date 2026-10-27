@@ -1,9 +1,9 @@
 Section: utils
 Priority: optional
-Maintainer: Dario Griffo <dariogriffo@gmail.com>
+Maintainer: Fengnan Gao <gao.fengnan@gmail.com>
 Homepage: https://github.com/starship/starship
 Package: starship
-Version: starship_VERSION-BUILD_VERSION~griffo
+Version: starship_VERSION-BUILD_VERSION~gaofn
 Architecture: SUPPORTED_ARCHITECTURES
 Description: The minimal, blazing-fast, and infinitely customizable prompt for any shell.
 
